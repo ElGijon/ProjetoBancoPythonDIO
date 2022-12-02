@@ -20,3 +20,4 @@ Utilizei neste projeto, vários elementos básicos de Python como Operadores Ló
 No momento em que o usuário saca o valor escolhido, o programa o atualiza com o saldo atual e o valor exato sacado na tela
 
 
+![Certificado projeto_page-0001](https://user-images.githubusercontent.com/101295421/205300623-e71ad304-8f0f-4ddf-b46e-c5e0c726023a.jpg)
