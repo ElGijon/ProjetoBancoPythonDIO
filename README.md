@@ -7,7 +7,7 @@ Este é o meu primeiro projeto utilizando a linguagem Python
 
 Projeto desenvolvido durante a formação Python da Digital Innovation One.
 
-O Projeto consiste em fazer com que o usúario tenha acesso à algumas operações similares à um ATM (Caixa Eletrônico)
+O Projeto consiste em fazer com que o usúario tenha acesso à algumas operações similares à um ATM (Caixa Eletrônico) como Sacar, Depositar e Consultar Extrato.
 
 
 
