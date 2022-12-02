@@ -14,3 +14,9 @@ O Projeto consiste em fazer com que o usúario tenha acesso à algumas operaçõ
 ## Aprendizados
 
 Utilizei neste projeto, vários elementos básicos de Python como Operadores Lógicos, Estruturas Condicionais e Estruturas de Repetição.
+
+## Melhorias
+
+No momento em que o usuário saca o valor escolhido, o programa o atualiza com o saldo atual e o valor exato sacado na tela
+
+
