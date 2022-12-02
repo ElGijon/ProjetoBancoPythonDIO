@@ -1,5 +1,5 @@
 
-# Olá, eu sou a Bruno Gijon! 👋
+# Olá, eu sou o Bruno Gijon! 👋
 Este é o meu primeiro projeto utilizando a linguagem Python
 
 
