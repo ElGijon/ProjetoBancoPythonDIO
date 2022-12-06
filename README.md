@@ -18,10 +18,6 @@ Utilizei neste projeto, vários elementos básicos de Python como Operadores Ló
 
 Na atualização, utilizei conceitos mais avançados como Listas, Tuplas, Conjuntos, Dicionários e Funções.
 
-## Melhorias
-
-No momento em que o usuário saca o valor escolhido, o programa o atualiza com o saldo atual e o valor exato sacado na tela
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Certificados:
