@@ -23,3 +23,4 @@ Na atualização, utilizei conceitos mais avançados como Listas, Tuplas, Conjun
 ## Certificados:
 
 ![Certificado projeto_page-0001](https://user-images.githubusercontent.com/101295421/205300623-e71ad304-8f0f-4ddf-b46e-c5e0c726023a.jpg)
+![345B6883_page-0001](https://user-images.githubusercontent.com/101295421/205970035-93b2f267-eb03-40d3-89a0-47461442a517.jpg)
